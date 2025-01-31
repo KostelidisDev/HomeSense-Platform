@@ -10,3 +10,6 @@
 [submodule "GasSense"]
 	path = GasSense
 	url = git@github.com:KostelidisDev/GasSense.git
+[submodule "HomeSense"]
+	path = HomeSense
+	url = git@github.com:KostelidisDev/HomeSense.git
