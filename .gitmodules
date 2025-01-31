@@ -1,3 +1,6 @@
 [submodule "NodeSense"]
 	path = NodeSense
 	url = git@github.com:KostelidisDev/NodeSense.git
+[submodule "TempSense"]
+	path = TempSense
+	url = git@github.com:KostelidisDev/TempSense.git
