@@ -4,3 +4,6 @@
 [submodule "TempSense"]
 	path = TempSense
 	url = git@github.com:KostelidisDev/TempSense.git
+[submodule "LightSense"]
+	path = LightSense
+	url = git@github.com:KostelidisDev/LightSense.git
