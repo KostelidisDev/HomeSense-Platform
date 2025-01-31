@@ -7,3 +7,6 @@
 [submodule "LightSense"]
 	path = LightSense
 	url = git@github.com:KostelidisDev/LightSense.git
+[submodule "GasSense"]
+	path = GasSense
+	url = git@github.com:KostelidisDev/GasSense.git
