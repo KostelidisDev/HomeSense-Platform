@@ -16,3 +16,6 @@
 [submodule "HomeSense-Deployer"]
 	path = HomeSense-Deployer
 	url = git@github.com:KostelidisDev/HomeSense-Deployer.git
+[submodule "HomeSense-Document"]
+	path = HomeSense-Document
+	url = git@github.com:KostelidisDev/HomeSense-Document.git
