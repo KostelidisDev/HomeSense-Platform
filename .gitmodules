@@ -22,3 +22,6 @@
 [submodule "HomeSense-Presentation"]
 	path = HomeSense-Presentation
 	url = git@github.com:KostelidisDev/HomeSense-Presentation.git
+[submodule "KiCadGrobotronics"]
+	path = KiCadGrobotronics
+	url = git@github.com:KostelidisDev/KiCadGrobotronics.git
