@@ -19,3 +19,6 @@
 [submodule "HomeSense-Document"]
 	path = HomeSense-Document
 	url = git@github.com:KostelidisDev/HomeSense-Document.git
+[submodule "HomeSense-Presentation"]
+	path = HomeSense-Presentation
+	url = git@github.com:KostelidisDev/HomeSense-Presentation.git
